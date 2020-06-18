@@ -1,0 +1,2 @@
+# NGATA-SCHOOL
+GitHub Pages
